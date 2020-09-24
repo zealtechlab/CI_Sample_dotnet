@@ -3,6 +3,7 @@
 Sample dotnet core eshop web app for the CI demonstration
 
 Include Unit tests, Sampel functional and integration tests are included for reference purpose only
+Make sure the app is run in debug mode to check functional and integration tests
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
